@@ -12,6 +12,4 @@ This article explores patterns of homicide and non-fatal shooting victims in Chi
 
 The chart below shows how the number of homicide and non-fatal shooting victims in Chicago changes by year. You can hover over each point to see the exact year and number of victims.
 
-{% raw %}
-<iframe src="../../assets/violence_over_time.html" width="100%" height="520" style="border:none;"></iframe>
-{% endraw %}
+<iframe src="https://tiffanylien4814.github.io/assets/violence_over_time.html" width="100%" height="520" style="border:none;"></iframe>
